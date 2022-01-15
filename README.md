@@ -1,9 +1,7 @@
 # Visual Question Answering
 Pytorch implementation of the following papers: 
-* VQA: Visual Question Answering (https://arxiv.org/pdf/1505.00468.pdf).
-* Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering
-  (https://arxiv.org/pdf/1612.00837.pdf)
-![model](./png/CNN_LSTM.png)
+* Bottom-up and Top Down Attention forImage Captioning and Visual Question Answering(https://www.arxiv-vanity.com/papers/1707.07998/).
+![model](./png/Architecture.png)
 ## Results
 The table shows that the performance of our implementation and original paper. 
 
